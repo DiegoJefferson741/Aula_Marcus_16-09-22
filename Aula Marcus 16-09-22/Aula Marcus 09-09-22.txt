@@ -1,0 +1,28 @@
+NetworkChuck
+
+
+Abrir o prompt 
+//Acessar o Desktop
+Cd Desktop
+
+//Acessar o  arquivo 
+docker-compose up
+
+//Instalar essas duas bibliotecas...
+pip3 install influxdb
+pip3 install padas
+
+//Abrir o arquivo python da area de trabalho//influx
+
+
+
+
+
+
+
+
+
+
+
+
+

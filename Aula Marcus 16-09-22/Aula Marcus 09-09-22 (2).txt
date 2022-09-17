@@ -1,0 +1,22 @@
+Abrir o prompt 
+Cd Descktop
+
+acessar o  arquivo 
+docker-compose up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

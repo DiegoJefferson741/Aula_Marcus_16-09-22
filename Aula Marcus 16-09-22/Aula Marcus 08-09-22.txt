@@ -1,0 +1,17 @@
+Serie Teporais
+Banco de dados de Series temporais
+
+Timestamp
+
+
+Infux DB
+
+docker - compose
+
+
+
+Link para o docker-compose.yml
+https://github.com/mvscti/GTI04019-COMPUTACAO_EM_NUVEM_E_IOT_II/blob/main/series_temporais/docker-compose.yml
+
+
+
